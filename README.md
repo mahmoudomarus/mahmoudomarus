@@ -22,7 +22,7 @@ feral start
 🕶️ In development — join the waitlist to be among the first to experience THEORA.
 📚 Documentation
 
-# The full documentation for FERAL lives at docs.feral.sh. You can also fetch the documentation index at https://docs.feral.sh/llms.txt .
+ The full documentation for FERAL lives at docs.feral.sh. You can also fetch the documentation index at https://docs.feral.sh/llms.txt .
 
 💾 Installation
 pip install "feral-ai[all]"
