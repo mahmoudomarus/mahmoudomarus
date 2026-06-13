@@ -1,13 +1,10 @@
 # Hi, I'm Mahmoud Omar
 
-I build AI‑native systems. **Get started with FERAL** using:
-
-```bash
 pip install "feral-ai[all]"
 feral setup
 feral start
 
-FERAL AI is a local control plane between your software and hardware; THEORA is a pair of smart glasses that track health metrics and provide hands‑free guidance.
+# FERAL AI is a local control plane between your software and hardware; THEORA is a pair of smart glasses that track health metrics and provide hands‑free guidance.
 
 🦝 About FERAL AI
 🧠 Local brain for apps, devices and memory — FERAL runs locally as the control plane between your software and hardware. It keeps long‑lived memory, learns your baseline patterns and executes digital‑twin actions with explicit policy gates.
@@ -25,7 +22,7 @@ FERAL AI is a local control plane between your software and hardware; THEORA i
 🕶️ In development — join the waitlist to be among the first to experience THEORA.
 📚 Documentation
 
-The full documentation for FERAL lives at docs.feral.sh. You can also fetch the documentation index at https://docs.feral.sh/llms.txt .
+# The full documentation for FERAL lives at docs.feral.sh. You can also fetch the documentation index at https://docs.feral.sh/llms.txt .
 
 💾 Installation
 pip install "feral-ai[all]"
@@ -34,7 +31,7 @@ feral start
 
 Requires Python 3.11+ on macOS or Linux.
 
-🚧 What I'm building
+# 🚧 What I'm building
 
 I'm working on FERAL AI — making local AI feel effortless — and on THEORA, smart glasses that track your vital signs and offer guidance. We’re open source: contribute skills, hardware adapters or Gen‑UI providers.
 
