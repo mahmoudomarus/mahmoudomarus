@@ -2,12 +2,6 @@
 
 I build AI-native systems. **Get started with FERAL** using:
 
-```bash
-pip install "feral-ai[all]"
-feral setup
-feral start
-```
-
 FERAL AI is a local control plane between your software and hardware; THEORA is a pair of smart glasses that track health metrics and provide hands-free guidance.
 
 ## 🦝 About FERAL AI
@@ -59,4 +53,4 @@ I'm not the fanciest coder, but I care about building tools that make AI more pe
 - ⭐ Star the [FERAL AI repo](https://github.com/FERAL-AI/FERAL-AI).
 - 📚 Read the FERAL docs: [docs.feral.sh](https://docs.feral.sh).
 - 🕶️ Join the THEORA waitlist: visit [theora.io](https://theora.io).
-- 🐦 Follow me on X: [@mahmoudomarus](https://x.com/mahmoudomarus).
+- 🐦 Follow me on X: [@FeralAi67724](https://x.com/FeralAi67724).
